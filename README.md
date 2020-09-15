@@ -1,5 +1,5 @@
 ## Dockerfile para proyectos java jdk11 - jdk8
-#### Ejecuatar
+#### Ejecutar
 ```console
 $ docker build -t hello-world:latest .
 ```
